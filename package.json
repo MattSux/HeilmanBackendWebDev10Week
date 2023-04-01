@@ -1,0 +1,27 @@
+{
+  "name": "10week",
+  "version": "1.0.0",
+  "description": "To Log Events in the server",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattSux/HeilmanBackendWebDev10Week.git"
+  },
+  "keywords": [
+    "webdev"
+  ],
+  "author": "Matt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattSux/HeilmanBackendWebDev10Week/issues"
+  },
+  "homepage": "https://github.com/MattSux/HeilmanBackendWebDev10Week#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
